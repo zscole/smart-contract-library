@@ -1,0 +1,3 @@
+# Ethereum Smart Contract Library
+
+A curated collection of historical smart contracts on the Ethereum blockchain. Each directory contains the source code and accompanying ABI for each smart contract. These smart contracts are for research, reference, and testing purposes only. Some of them are vulnerable, non-functional, and down right dangerous to deploy in a live network. I did not write these and I wouldn't recommend anyone repurpose any of this code unless you're confident that you know what you're doing and even in that case, you do so at your own risk. 

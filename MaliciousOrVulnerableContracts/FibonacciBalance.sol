@@ -1,3 +1,5 @@
+pragma solidity ^0.4.19;
+
 contract FibonacciBalance {
     address public fibonacciLibrary;
     // the current fibonacci number to withdraw

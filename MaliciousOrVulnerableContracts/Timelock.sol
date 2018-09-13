@@ -1,3 +1,5 @@
+pragma solidity ^0.4.19;
+
 contract TimeLock {
     
     mapping(address => uint) public balances;

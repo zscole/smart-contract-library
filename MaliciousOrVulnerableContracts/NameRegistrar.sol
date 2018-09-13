@@ -1,3 +1,5 @@
+pragma solidity ^0.4.19;
+
 // A Locked Name Registrar
 contract NameRegistrar {
     bool public unlocked = false;  // registrar locked, no name updates

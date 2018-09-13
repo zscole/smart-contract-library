@@ -1,3 +1,5 @@
+pragma solidity ^0.4.19;
+
 contract EtherStore {
     uint256 public withdrawalLimit = 1 ether;
     mapping(address => uint256) public lastWithdrawTime;

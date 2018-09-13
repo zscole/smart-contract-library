@@ -1,3 +1,5 @@
+pragma solidity ^0.4.19;
+
 contract KeylessHiddenEthCreator { 
     uint public currentContractNonce = 1; // keep track of this contracts nonce publicly (it's also found in the contracts state)
     // determine future addresses which can hide ether. 

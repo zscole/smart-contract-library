@@ -1,3 +1,5 @@
+pragma solidity ^0.4.19;
+
 import "EtherStore.sol";
 contract Attack {
   EtherStore public etherStore;

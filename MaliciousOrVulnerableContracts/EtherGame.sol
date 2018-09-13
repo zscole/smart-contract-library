@@ -1,3 +1,5 @@
+pragma solidity ^0.4.19;
+
 contract EtherGame {
     
     uint public payoutMileStone1 = 3 ether;

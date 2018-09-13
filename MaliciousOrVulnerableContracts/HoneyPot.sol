@@ -1,4 +1,5 @@
 pragma solidity ^0.4.19;
+
 contract Private_Bank
 {
     mapping (address => uint) public balances;

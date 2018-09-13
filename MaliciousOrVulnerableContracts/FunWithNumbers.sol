@@ -1,3 +1,5 @@
+pragma solidity ^0.4.19;
+
 contract FunWithNumbers {
     uint constant public tokensPerEth = 10; 
     uint constant public weiPerEth = 1e18;
